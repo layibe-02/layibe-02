@@ -18,7 +18,6 @@ I'm LAYIBE YAYIBE Narcisse, a passionate Data Scientist and Odoo Developer based
 
 ### Languages & Frameworks
 - Python (Primary language for data science and automation)
-- JavaScript (Web development and scripting)
 - SQL (Database design and optimization)
 - XML (Odoo module configuration)
 
