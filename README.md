@@ -33,7 +33,7 @@ I work at the crossroads of data and business software: analysing data to suppor
 
 ## Skills
 
-**Languages:** Python, SQL, C++, XML, LaTeX
+**Languages:** Python, SQL, XML, LaTeX
 
 **Data & AI:** Pandas, NumPy, Matplotlib, Plotly, Scikit-learn, TensorFlow / TFLite, time series, Power BI, LLM applications
 
