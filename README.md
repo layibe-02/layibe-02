@@ -56,6 +56,7 @@ I work at the crossroads of data and business software: analysing data to suppor
 ## Contact
 
 - LinkedIn: [layibe-yayibe-narcisse](https://linkedin.com/in/layibe-yayibe-narcisse-ba2a34281)
+- Portfolio: [lynux.onrender.com/portfolio](https://lynux.onrender.com/portfolio/)
 - Location: Douala, Cameroon
 
 <sub>Last updated: November 2026</sub>
