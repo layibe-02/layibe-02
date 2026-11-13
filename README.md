@@ -10,11 +10,11 @@ I work at the crossroads of data and business software: analysing data to suppor
 
 ## About me
 
-- 🎓 5th-year engineering student, Data Science track, Institut Ucac-Icam (graduating 2027); Licence from Université de Yaoundé I
-- 💼 Freelance Odoo developer at ROCAGLIA SAS: ERP deployment with OHADA accounting, CEMAC VAT, payroll and attendance modules (Odoo 17)
-- 🏦 Internships at Orabank Tchad (N'Djamena): database administration and IT support, then data science
-- 📚 Currently following WorldQuant University's Applied Data Science Lab and DataCamp's Data Analyst in Power BI track
-- 🌍 French (native), English (B1, TOEIC 870)
+- 5th-year engineering student, Data Science track, Institut Ucac-Icam (graduating 2027); Licence from Université de Yaoundé I
+- Freelance Odoo developer at ROCAGLIA SAS: ERP deployment with OHADA accounting, CEMAC VAT, payroll and attendance modules (Odoo 17)
+- Internships at Orabank Tchad (N'Djamena): database administration and IT support, then data science
+- Currently following WorldQuant University's Applied Data Science Lab and DataCamp's Data Analyst in Power BI track
+- French (native), English (B1, TOEIC 870)
 
 ---
 
