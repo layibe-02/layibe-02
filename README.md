@@ -23,10 +23,9 @@ I work at the crossroads of data and business software: analysing data to suppor
 | Project | Description | My role |
 |---|---|---|
 | **CantiFlow** | School project (Smart Realization): mobile and web application, in design and front-end development | Team member, front-end |
-| **[MboaLink](https://github.com/etie-pick202/mboalink)** | Team project, active development | Scrum Master |
-| **[Wi-Grow](https://github.com/Johanne2026/Wi_Grow-project)** | School project (ETSIA): smart agriculture solution built by a team of five | Team member |
+| **[Wi-Grow](https://github.com/Johanne2026/Wi_Grow-project)** | School project (ETSIA): smart agriculture solution built by a team of five | Scrum Master |
 | **NoteIT** | Meeting transcription tool that extracts action items and syncs them with project management tools (LLM application) | Project lead |
-| **[Geo_SLAM](https://github.com/lionel-youassa/Geo_SLAM)** | Android indoor positioning and mapping: Camera2, JNI/C++, TFLite, ORB-SLAM concepts, IMU | Developer, co-author of the research paper |
+| **[GeoSLAM](https://github.com/lionel-youassa/Geo_SLAM)** | Android indoor positioning and mapping: Camera2, JNI/C++, TFLite, ORB-SLAM concepts, IMU | Developer, co-author of the research paper |
 | **ERP ROCAGLIA** | Odoo 17 deployment and custom modules for a company in Cameroon | Odoo developer |
 
 ---
